@@ -90,7 +90,7 @@ Avoid the [not invented here syndrome](https://en.wikipedia.org/wiki/Not_invente
 
 Always be on the lookout for **existing solutions** to problems.
 
-If you need to start a fire, instead of buying seed, watering it, waiting for the tree to grow, mining for ore using your bare hands to forge an axe to chop a tree down with, figuring out how on earth does one manufacture a match, maybe just borrow some logs and matches from that friendly neighbor of yours!
+If you need to start a fire, instead of buying seed, watering it, waiting for the tree to grow, mining for ore using your bare hands to forge an axe to chop the tree down with, figuring out how on earth does one manufacture a match, maybe just borrow some logs and matches from that friendly neighbor of yours!
 
 > **The end goal is the fire, not the process of creating it.** (Unless you sell consultancy services!). 😇
 
@@ -104,7 +104,7 @@ For real, _there is no shame in using existing things_ instead of building your 
 
 > If you find you need to code something, strive for laziness. Meaning, **write as little code as possible**. You know, _the least amount of bugs is found in code that has not been written at all_!
 
-Laziness does not mean skipping best practices when writing the little code you are going to write. Your hack, using the ERP provider's vendor-specific code, might look like a turd, but at least it is a tiny and polished turd! 💩
+Laziness does not mean skipping best practices when writing the little code you are going to write. Quality over quantity! 👆
 
 ### The ability to communicate the solution
 
@@ -147,12 +147,10 @@ All this might seem daunting but fret not. **Learning skills, any skills, takes 
 
 ## I'm specifically interested in learning automation. Where and how do I start?
 
-Invest time in learning to use [a developer-focused automation stack that builds on top of popular open-source technologies](https://robocorp.com/).
+Invest time in learning to use [**a developer-focused automation stack that builds on top of popular open-source technologies**](https://robocorp.com/).
 
 - You will learn generic software development skills.
 - You will learn popular and relevant technologies.
 - You will learn to communicate the intent of your code.
 - The skills you learn can be applied in all software development, not just automation!
 - Skilled automation professionals are in great demand.
-
-Whatever your profession, good luck on your journey! 🤖
